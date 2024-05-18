@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716057386 source:c:\users\hp estudio\desktop\mecatronica proyect\ejercicio 2.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
