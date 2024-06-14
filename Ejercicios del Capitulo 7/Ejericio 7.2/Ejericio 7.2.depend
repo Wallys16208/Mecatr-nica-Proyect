@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717606193 source:c:\users\hp estudio\desktop\mecatronica proyect\ejercicios del capitulo 7\ejericio 7.2\main.c
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+
