@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1720207530 source:c:\users\hp estudio\desktop\mecatronica proyect\tarea 8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
